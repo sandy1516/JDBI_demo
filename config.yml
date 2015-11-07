@@ -1,0 +1,12 @@
+database:
+        # the name of your JDBC driver
+        driverClass: com.mysql.jdbc.Driver
+
+        # the username
+        user: root
+
+        # the password
+        password: system
+
+        # the JDBC URL
+        url: jdbc:mysql://localhost/test
